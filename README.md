@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Arkadeep
-- 👀 I’m interested in rocks, microcontrollers, petroleum geoscience, seismology and automation thereof.
-- 🌱 I’m currently learning geomechanics, hydroponics and lithography.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Arkadeep, ex Senior Geologist, with 6 years of experience on on-shore rigs. I am currently on a career break, to explore other aspects of life.
+- 👀 I’m interested in wild well control, microcontrollers, geophysics and automation thereof.
+- 🌱 I’m currently learning geomechanics, geophysics and lithography.
+- 💞️ I’m looking to work in pressure prediction roles, well design and planning and offshore wells in general.
 - 📫 How to reach me : You can email me at arkadeep.nexus@gmail.com, or call me at +91-9909048614
 - ⚡ Fun fact: ...
 
