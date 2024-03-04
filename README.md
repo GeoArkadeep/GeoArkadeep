@@ -2,7 +2,7 @@
 - 👀 I’m interested in wild well control, microcontrollers, geophysics and automation thereof.
 - 🌱 I’m currently learning geomechanics, geophysics and lithography.
 - 💞️ I’m looking to work in pressure prediction roles, well design and planning and offshore wells in general.
-- 📫 How to reach me : You can email me at arkadeep_ghosh@rocklab.in, or call me at +91-9909048614
+- 📫 How to reach me : You can email me at arkadeep_ghosh@rocklab.in
 - ⚡ Fun fact: ...
 
 <!---
